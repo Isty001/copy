@@ -13,6 +13,10 @@ git clone https://github.com/isty001/copy
 
 #### Usage
 
+```C
+#include "copy.h"
+```
+
 Copy one file:
 
 ```C
